@@ -1,2 +1,3 @@
 # DemoApp
-This app is used for demo purpose
+
+This is a feature based demo application
